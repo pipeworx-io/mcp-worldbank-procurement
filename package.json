@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-worldbank-procurement",
+  "version": "0.1.0",
+  "description": "World Bank Procurement Notices MCP — global development tenders (keyless).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "worldbank-procurement"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-worldbank-procurement"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
