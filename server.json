@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/worldbank-procurement",
   "title": "Worldbank Procurement",
   "description": "World Bank Procurement Notices MCP — global development tenders (keyless).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/worldbank-procurement",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-worldbank-procurement",
